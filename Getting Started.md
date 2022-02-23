@@ -9,3 +9,5 @@
 * The second notebook, <b>user_guide</b>, introduces 'light_guide' step by step, and teaches you how to run simulations- as well as test (relatively) simple changes to the system.
 
 * The third notebook, <b>programmer_guide</b>, is a more detailed documentation, that also explores the basic building blocks of the existing simulation tools- if you wish to build your own functions, improve on the program, or test significant changes to the system.
+
+* The PDF file "ZDC lightguide optimization", is the final report I sumbitted for my project. It may give some context for the code, as it shows a bigger picture.
